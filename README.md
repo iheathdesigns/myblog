@@ -1,2 +1,0 @@
-# myblog
-Development and Design
