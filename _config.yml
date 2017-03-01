@@ -13,13 +13,13 @@ url: "https://iheathdesigns.github.io" # the base hostname & protocol for your s
 social:
   twitter: https://twitter.com/IanHeathDesigns
   github: https://github.com/iheathdesigns
-  linkedin-square: https://linkedin.com/in/<username>
+  linkedin-square: https://www.linkedin.com/in/ianheath1
   facebook-official: https://facebook.com/ian.heath.908
   google-plus-square: https://plus.google.com/u/0/+<username>
-  #email: /contact/
+  #email: ian.heath@westindiadesigns.com
   #flickr:
   instagram: https://instagram.com/iheathdesigns/
-  #youtube-square:
+  youtube-square: https://www.youtube.com/c/IanHeathdesigns
   #spotify:
   #stack-overflow:
   #vimeo:
@@ -29,7 +29,7 @@ social:
   #pied-piper:
   #digg:
   #soundcloud:
-  #deviantart:
+  deviantart: http://iheath.deviantart.com/
   #angellist:
   #tumblr-square:
   #stackexchange:
